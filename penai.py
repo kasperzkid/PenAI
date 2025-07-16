@@ -17,7 +17,7 @@ import readline
 import atexit
 import random
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 OPENROUTER_MODELS = [
     "mistralai/mistral-7b-instruct",
     "anthropic/claude-instant-1.2",
